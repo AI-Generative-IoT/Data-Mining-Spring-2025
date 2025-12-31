@@ -1,5 +1,3 @@
-Here’s a scientific summary of the **Data Mining Course - Spring 2025** with icons and favicons. This version integrates visual elements to make it more engaging:
-
 ---
 
 ### **Data Mining Course - Spring 2025**  
