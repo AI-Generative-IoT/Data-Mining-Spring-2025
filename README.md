@@ -72,18 +72,4 @@ For inquiries, reach out to:
 
 ### **Author**  
 
-## 👨‍🏫 **Univ.-Doz. Dr. A. Schelle**  
-
-### **Icons and Favicons Suggestions**  
-
-* **Data Mining**: 🔍  
-* **Machine Learning**: 🤖  
-* **GitHub**: 🐙  
-* **Email**: 📧  
-* **Documentation**: 📄  
-
-These icons and visual elements can be added to your summary to enhance readability and engagement. If you'd like, I can also generate these icons or help you with other design elements.  
-
----
-
-Would you like to see the full version with embedded icons, or do you have a specific design request in mind?  
+## 👨‍🏫 **Univ.-Doz. Dr. A. Schelle**
