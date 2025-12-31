@@ -1,5 +1,3 @@
----
-
 ### **Data Mining Course - Spring 2025**  
 
 **Constructor University**  
